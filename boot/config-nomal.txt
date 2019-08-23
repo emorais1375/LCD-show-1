@@ -54,3 +54,6 @@
 
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
+
+#Remove tela de arco-iris 
+disable_splash=1

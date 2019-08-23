@@ -62,3 +62,6 @@ dtoverlay=ads7846,cs=1,penirq=25,penirq_pull=2,speed=50000,keep_vref_on=0,swapxy
 hdmi_drive=1
 hdmi_force_hotplug=1
 #max_usb_current=1
+
+#Remove tela de arco-iris 
+disable_splash=1
